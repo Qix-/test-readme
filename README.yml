@@ -1,0 +1,7 @@
+#
+# This is a test readme
+#
+test: true
+name: hello
+this: |
+  is a test with multiline strings
